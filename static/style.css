@@ -1,0 +1,36 @@
+body{
+    background-color: darkseagreen;
+}
+.text-center{   
+    text-align: center;
+    
+}
+.container{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 306px;
+    border-radius: 10px;
+}
+.btn{
+    padding: 28px;
+    border: 3px solid black;
+    cursor: pointer;
+    width: 72px;
+    background-color: #cad088e6;
+}
+.row{
+    margin: 1px 0px;
+}
+.num{
+    padding: 26px 50px;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: #873a4cba;
+    font-size: 16px;
+    outline: none;
+  } 
+  
